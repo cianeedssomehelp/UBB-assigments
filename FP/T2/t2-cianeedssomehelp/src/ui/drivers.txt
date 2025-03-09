@@ -1,0 +1,5 @@
+Ion, 10, 21
+Vasile, 50, 102
+Popa, 1, 4
+Ana, 5, 7
+Catalin, 18, 25

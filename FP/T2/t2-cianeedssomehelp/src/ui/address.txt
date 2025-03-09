@@ -1,0 +1,5 @@
+1, Theodor Mihali, 12, 20
+2000, Dorobantilor, 50, 100
+2, Republicii, 20, 30
+3, Calea Turzii, 40, 50
+4, Busteni, 60, 70
